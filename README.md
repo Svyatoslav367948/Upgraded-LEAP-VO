@@ -1,3 +1,5 @@
+# The modified method of LEAP-VO
+
 # LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry
 
 **[CVPR 2024]** The repository contains the official implementation of [LEAP-VO](https://github.com/wrchen530/leapvo). We aim to leverage **temporal context with long-term point tracking** to achieve motion estimation, occlusion handling, and track probability modeling.
